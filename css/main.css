@@ -1,0 +1,30 @@
+body{
+font-family: 'Arvo', serif;
+}
+.height{
+    min-height: 100vh;
+}
+.title-underline{
+width: 200px;
+height: 10px;
+margin:0 auto;
+/*background:blue:!important;*/
+}
+.height-80{
+    min-height: 100vh;
+}
+
+.about-picture{
+background: url(../img/pradeep5.jpg);
+background-position: left;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+#filler{
+    background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.5)),url(../img/img2.jpeg)center  fixed;
+}
+#progress{
+    background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.5)),url(../img/img1.jpeg)center  fixed;
+}
+
